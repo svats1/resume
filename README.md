@@ -1,5 +1,5 @@
 # Samarth Vats - Resume
 
-# Updated: 08/14/23
+Go to: bit.ly/svats-resume
 
-Direct link - bit.ly/svats-resume
+Updated: 08/14/23
